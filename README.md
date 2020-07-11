@@ -4,6 +4,7 @@ PT6302 and M5stack Atom required
 # Pin Map
 
 din   = 33; // DA
+
 clk   = 23; // CK
 
 cs    = 19; // CS
