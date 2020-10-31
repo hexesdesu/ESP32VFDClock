@@ -3,13 +3,19 @@ PT6302 and M5stack Atom required
 
 # Pin Map
 
-din   = 33; // DA
+din -> 33; // DA
 
-clk   = 23; // CK
+clk -> 23; // CK
 
-cs    = 19; // CS
+cs -> 19; // CS
 
-Reset = 22; // RS
+Reset -> 22; // RS
+
+en = 3.3v; // I used a LDO (silk 662k) to get 3.3v from vcc.
+
+vc = 5v;
+
+gnd = ground;
 
 # Link of the staff
 
