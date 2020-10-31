@@ -1,3 +1,5 @@
+![avator](https://github.com/hexesdesu/ESP32VFDClock/blob/master/IMG_0741.JPG.JPG)
+
 # ESP32VFDClock
 PT6302 and M5stack Atom required
 
